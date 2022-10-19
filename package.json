@@ -10,8 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.10",
+    "mobx": "^6.6.2",
+    "mobx-persist-store": "^1.1.2",
+    "mobx-react": "^7.5.3",
     "react": "18.1.0",
-    "react-native": "0.70.3"
+    "react-native": "0.70.3",
+    "react-native-paper": "^4.12.5",
+    "react-native-svg": "^13.4.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-use-websocket": "3.0.0",
+    "twelvedata": "^3.0.0",
+    "victory-native": "^36.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
